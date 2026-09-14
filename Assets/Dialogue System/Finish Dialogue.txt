@@ -1,0 +1,6 @@
+[NAME=Knight] You did it! You defeated the golem and saved our town!
+[NAME=Player] What do I do now?
+[NAME=Knight] Those comic pages you have been collecting are stories from your home world.
+[NAME=Knight] Since you've collected enough of them, now you can go back home.
+[NAME=Player] That's awesome! Thanks for your help!
+[NAME=Knight] No problem.

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8382817ccab6d13419f8bc58959248b4, type: 3}
+  m_Name: Sample Speaker Library
+  m_EditorClassIdentifier: 
+  speakers:
+  - ID: Player
+    displayName: 
+    defaultSprite: {fileID: -3337038689812066966, guid: 6bf39e4e9ecc7124b89ed83d5415b4ad, type: 3}
+    advancedOptions:
+      extraSprites: []
+      useCustomColors: 0
+      nameColor: {r: 0, g: 0, b: 0, a: 1}
+      textColor: {r: 1, g: 1, b: 1, a: 1}
+      chatterClips: []
+      chatterInterval: 0.05
+  - ID: Knight
+    displayName: 
+    defaultSprite: {fileID: 2740851794345277922, guid: cd1fb9a80f06a6144a4b28c862f5a2c0, type: 3}
+    advancedOptions:
+      extraSprites: []
+      useCustomColors: 0
+      nameColor: {r: 0, g: 0, b: 0, a: 1}
+      textColor: {r: 1, g: 1, b: 1, a: 1}
+      chatterClips: []
+      chatterInterval: 0.05

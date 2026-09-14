@@ -1,0 +1,6 @@
+[NAME=Player] Hello! Who are you?
+[NAME=Knight] I am the Knight, the guardian of this kingdom.
+[NAME=Player] What am I supposed to do here?
+[NAME=Knight] Mysterious comic pages have appeared in our world, disrupting the land.
+[NAME=Knight] Take them back to whatever world they came from.
+[NAME=Player] Sounds like a plan.
